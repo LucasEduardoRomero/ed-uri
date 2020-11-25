@@ -1,0 +1,6 @@
+# ignore everything
+*
+
+# except files ending with ".c"
+!*.c
+!.gitignore
